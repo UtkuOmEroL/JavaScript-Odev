@@ -1,0 +1,50 @@
+
+html{ 
+    background-color: #034444;
+}
+.mid-circle{
+    width: 1000px;
+    height: 930px;
+    background-color: #67b99a;
+    clip-path: circle(50% at 0 52%);
+}
+.second-circle{
+    width: 450px;
+    height: 930px;
+    background-color: #56ab91;
+    clip-path: circle(50% at 0 52%);
+}
+.last-circle{
+    width: 1300px;
+    height: 930px;
+    background-color: #469d89;
+    clip-path: circle(50% at 0 52%);
+    position: absolute;
+    z-index: 0;
+}
+img{
+    width: 900px;
+    height: 100px;
+}
+.image{
+    text-align : center;
+}
+.text{
+    text-align: center;
+    color: white ;
+    font-size: px;
+    font-family: Poppins
+;
+
+}
+.bottom-group{
+    z-index: 2;
+    position: relative;
+}
+#saat{
+    text-align: center;
+    color: white ;
+    font-size: px;
+    font-family: Poppins
+;
+}
